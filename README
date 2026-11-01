@@ -1,0 +1,5 @@
+# Git in VScode
+
+nihao wo jiao Zinh
+git config --global user.name 'Zinh'
+git config --global user.email 'phuocvinh1311@gmail.com'
